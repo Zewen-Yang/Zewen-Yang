@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning Projects.
+This account contains my **Web and App portfolio**:
 
-Check my [personal website](https://zewen-yang.github.io) for more info.
+- [Personal Homepage](https://zewen-yang.github.io)
+- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
+- [Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
+- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
+
+**Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
 
 
 <!--
