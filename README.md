@@ -9,6 +9,8 @@ This account contains my **Web and App portfolio**:
 
 **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
 
+Thanks for visting!
+
 
 <!--
 **Zewen-Yang/Zewen-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
