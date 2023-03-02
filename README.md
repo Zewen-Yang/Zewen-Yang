@@ -10,10 +10,10 @@ This account contains my **Web and App portfolio**:
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
 
 Thanks for visting!
-<details open> 
-    <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+
+<details> 
+    <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
