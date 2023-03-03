@@ -12,7 +12,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 - [Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
 - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
 
-This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account. <a href="https://github.com/alwinyang91"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-1F222E?style&logoColor=white&logo=link-external"/></a>
+This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [another account](https://github.com/alwinyang91).
 
 
 ### Thanks for visting!
