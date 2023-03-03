@@ -12,7 +12,6 @@ This account contains my **Web and App portfolio**:
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
 
 ## Thanks for visting!
-
 ---
 
 ### 🧰 My Dayily Languages and Tools
@@ -31,7 +30,7 @@ This account contains my **Web and App portfolio**:
 
 #
 
-<details open> 
+<details> 
     <summary><h3>🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
