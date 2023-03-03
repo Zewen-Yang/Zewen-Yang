@@ -28,8 +28,6 @@ Thanks for visting!
 <br />
 
 
-#
-
 ---
 
 <details> 
