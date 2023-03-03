@@ -70,6 +70,7 @@ This account contains my **Web and App portfolio**:
     <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
     <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
+    <a href="#"><img alt="openai" src="https://img.shields.io/badge/openai-412991.svg?logo=openai&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
