@@ -1,4 +1,4 @@
-## Hi, I am Zewen Yang. 👋
+### Hi, I am Zewen Yang. 👋
 
 **`Data Scientist/Machine Learning & Robotic Control Researcher`**
 
@@ -11,8 +11,9 @@ This account contains my **Web and App portfolio**:
 
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
 
-## Thanks for visting!
+### Thanks for visting!
 
+---
 
 ### 🧰 My Dayily Languages and Tools
 <p>
@@ -30,7 +31,8 @@ This account contains my **Web and App portfolio**:
 
 <br />
 
-<div>
+#
+
 <details > 
     <summary><h3>🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -91,7 +93,7 @@ This account contains my **Web and App portfolio**:
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>
-</div>
+
 <!--
 **Zewen-Yang/Zewen-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
