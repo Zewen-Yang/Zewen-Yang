@@ -1,4 +1,4 @@
-### Hi, I am Zewen Yang. 👋
+## Hi, I am Zewen Yang. 👋
 
 **`Data Scientist/Machine Learning & Robotic Control Researcher`**
 
@@ -11,8 +11,9 @@ This account contains my **Web and App portfolio**:
 
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
 
-Thanks for visting!
+## Thanks for visting!
 
+---
 
 ### 🧰 My Dayily Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
@@ -28,15 +29,15 @@ Thanks for visting!
 <br />
 
 
----
+#
 
-<details> 
-    <summary><h3>🛠️ My Favorite Tools</h3></summary>
+<details open> 
+    <summary><h3>🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/MATLAB/Simulink-blue.svg?logo=matlab_icon&logoColor=white"></a>
+    <a href="#"><img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/MATLAB/Simulink-61DAFB.svg?logo=matlab_icon&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -51,12 +52,22 @@ Thanks for visting!
   <h3>🗃️ Frameworks and Libraries</h3>
 
   <p>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/PyTorch-EE4C2c.svg?logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2c.svg?logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Kears" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"></a>
+    <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-8CAAE6.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="statsmodels" src="https://custom-icon-badges.demolab.com/badge/statsmodels-4934BF.svg?logo=statsmodels-logo&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
+    <a href="#"><img alt="Gazebo" src="https://custom-icon-badges.demolab.com/badge/Gazebo-FF7800.svg?logo=gazebo_icon&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white"></a>
+    <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
+    <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -64,18 +75,20 @@ Thanks for visting!
   <p>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=GitLab&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/treamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
+    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
 
   <p>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>
 
