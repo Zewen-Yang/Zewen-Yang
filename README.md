@@ -1,15 +1,19 @@
 ### Hi, I am Zewen Yang. 👋
 
-**`Data Scientist/Machine Learning & Robotic Control Researcher`**
+<p>
+I am a data scientist/machine learning researcher at Data Scientist Retreat in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Machine Learning, Robotics, and Multi-Agent System.
+</p>
 
-This account contains my **Web and App portfolio**:
+<a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-- [Personal Homepage](https://zewen-yang.github.io)
+> **Note:** This account only contains my **Web and App portfolio**:
+
 - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
 - [Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
 - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
 
-> **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my [other account](https://github.com/alwinyang91). 
+This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account. <a href="https://github.com/alwinyang91"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-1F222E?style&logoColor=white&logo=link-external"/></a>
+
 
 ### Thanks for visting!
 
