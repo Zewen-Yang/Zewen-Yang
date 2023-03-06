@@ -7,12 +7,11 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 > **Note:** This account only contains my **Web and App portfolio**:
-
-- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-- [Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
-- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
-
-This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
+> - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
+>- [Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
+> - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
+> 
+> This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
 
 
 <a href="https://github.com/alwinyang91"><img alt="Main" src="https://custom-icon-badges.demolab.com/badge/-Main%20Account-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
