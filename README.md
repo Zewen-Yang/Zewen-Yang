@@ -80,7 +80,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white"></a>
     <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
     <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
-    <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
+    <a href="#"><img alt="plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
     <a href="#"><img alt="openai" src="https://img.shields.io/badge/openai-412991.svg?logo=openai&logoColor=white"></a>
     <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
