@@ -85,7 +85,6 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="fastapi" src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
 
   </p>
 
@@ -99,6 +98,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
     <a href="#"><img alt="Render" src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://custom-icon-badges.demolab.com/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
