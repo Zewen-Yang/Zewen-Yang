@@ -9,7 +9,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 
 > **Note:** This account only contains my **Web and App portfolio**:
 > - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-> - [Interative Dashboard](https://zewen-yang.github.io/AI-DAVis-PANDEMICS-Dashboard/)
+> - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
 > - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
 > - [Research Mate Recommendation](https://research-mate.onrender.com/)
 > - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
