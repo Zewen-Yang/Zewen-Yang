@@ -7,7 +7,8 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-> **Note:** This account only contains my **Web and App portfolio**:
+> **Note:** This account only contains my **Web and research portfolio**:
+> - [Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
 > - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
 > - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
 > - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
