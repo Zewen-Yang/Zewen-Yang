@@ -21,8 +21,6 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 <a href="https://github.com/alwinyang91"><img alt="Main" src="https://custom-icon-badges.demolab.com/badge/-Visit My Main%20Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-### Thanks for visting!
-
 ---
 ### 🧰 My Daily Languages and Tools
 <p>
