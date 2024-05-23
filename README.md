@@ -9,12 +9,12 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 **Note:** This account only contains my **Web and Research** portfolio:
 
-Research Project Code:
+### Research Project Code:
 - [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
 - [Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
 
 
-Web & App:
+### Web & App:
 - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
 - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
 - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
