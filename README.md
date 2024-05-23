@@ -7,13 +7,19 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-> **Note:** This account only contains my **Web and research portfolio**:
-> - [Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
-> - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-> - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
-> - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
-> - [Research Mate Recommendation](https://research-mate.onrender.com/)
-> - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
+**Note:** This account only contains my **Web and Research** portfolio:
+
+Research Project Code:
+- [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
+- [Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+
+
+Web & App:
+- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
+- [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
+- [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
+- [Research Mate Recommendation](https://research-mate.onrender.com/)
+- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
 
 > 
 > This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
