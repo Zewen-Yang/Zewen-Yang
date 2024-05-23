@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 ### Research Project Code:
 - [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
-- [Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+- [AAMAS2024: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
 
 
 ### Web & App:
