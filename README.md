@@ -5,9 +5,9 @@
 I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
 </p>
 
-<a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-**Note:** This account only contains my **Web and Research** portfolio:
+This account only contains my **Web and Research** portfolio:
 
 ### Research Project Code:
 - [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
@@ -22,7 +22,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
 
 > 
-> This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
+> **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
 
 
 <a href="https://github.com/alwinyang91"><img alt="Main" src="https://custom-icon-badges.demolab.com/badge/-Visit My Main%20Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
