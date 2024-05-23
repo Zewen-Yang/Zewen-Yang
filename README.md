@@ -7,7 +7,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-This account only contains my **Research & Web/App ** portfolio:
+This account only contains my **Research & Web/App** portfolio:
 
 ### Research Project Code:
 - [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
