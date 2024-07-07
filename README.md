@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
+I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
@@ -52,9 +52,8 @@ This account only contains my **Research & Web/App** portfolio:
 #
 
 <details open> 
-    <summary><h3>🛠️ My Used Tools</h3></summary>
+  <summary><h3>🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/MATLAB/Simulink-blue.svg?logo=box&logoSource=feather"></a>
