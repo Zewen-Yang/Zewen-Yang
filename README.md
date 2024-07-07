@@ -73,7 +73,6 @@ This account only contains my **Research & Web/App** portfolio:
   <h3>🗃️ Frameworks and Libraries</h3>
 
   <p>
-    <ul>
     <li>Machine Learning: 
      </br>
      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2c.svg?logo=PyTorch&logoColor=white"></a>
@@ -120,7 +119,6 @@ This account only contains my **Research & Web/App** portfolio:
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     </li>
-    </ul>
   </p>
 
   <h3>🌐 Cloud Hosting Tools</h3>
