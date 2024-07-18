@@ -84,6 +84,8 @@ This account only contains my **Research & Web/App** portfolio:
     <a href="#"><img alt="huggingface" src="https://img.shields.io/badge/Transformers/Tokenizers-FFD21E.svg?logo=huggingface&logoColor=black"></a>
     <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white"></a>
     <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     </li>
     <li>Front-end & Visulization:
     </br>
@@ -96,8 +98,9 @@ This account only contains my **Research & Web/App** portfolio:
     <a href="#"><img alt="Vega" src="https://img.shields.io/badge/Vega--Lite/--Altair-2450B2.svg?logo=Vega&logoColor=white"></a>
     <a href="#"><img alt="Observable" src="https://img.shields.io/badge/Observable-353E58.svg?logo=observable&logoColor=white"></a>
     <a href="#"><img alt="plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
-    <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
     <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/GeoPandas-139C5A.svg?logo=geopandas&logoColor=white"></a>
     </li>
     <li>Back-end:
     </br>
@@ -136,18 +139,19 @@ This account only contains my **Research & Web/App** portfolio:
     <!-- <a href="#"><img alt="Render" src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a> -->
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <!-- <a href="#"><img alt="Heroku" src="https://custom-icon-badges.demolab.com/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> -->
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
     <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?logo=overleaf&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    
   </p>
 
   <h3>💻 Softwares</h3>
   <p>
-    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/VS Code-white.svg?logo=vs-code&logoColor=black"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
     <!-- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
-    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
+    <!-- <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a> -->
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/VS Code-white.svg?logo=vs-code&logoColor=black"></a>
   </p>
 </details>
 
