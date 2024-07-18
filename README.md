@@ -16,11 +16,10 @@ This account only contains my **Research & Web/App** portfolio:
 
 #### Web & App:
 - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-- [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
-- [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
 - [Research Mate Recommendation](https://research-mate.onrender.com/)
 - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
-
+<!-- - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
+- [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app) -->
 > 
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
 
@@ -88,7 +87,7 @@ This account only contains my **Research & Web/App** portfolio:
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     </li>
-    <li>Front-end & Visulization:
+    <li>Frontend & Visulization:
     </br>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
@@ -103,7 +102,7 @@ This account only contains my **Research & Web/App** portfolio:
     <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/GeoPandas-139C5A.svg?logo=geopandas&logoColor=white"></a>
     </li>
-    <li>Back-end:
+    <li>Backend:
     </br>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
