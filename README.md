@@ -87,7 +87,9 @@ This account only contains my **Research & Web/App** portfolio:
     </li>
     <li>Front-end & Visulization:
     </br>
-    <a href="#"><img alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="sass" src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
