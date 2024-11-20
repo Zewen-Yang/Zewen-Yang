@@ -2,7 +2,9 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute based in Berlin. I have earned my Ph.D. in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, and Data Representation.
+I am a Postdoctoral Researcher and Full-Stack Developer at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin 
+, and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University.
+My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, and Data Representation.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
@@ -11,7 +13,7 @@ This account only contains my **Research & Web/App** portfolio:
 
 #### Research Project Code:
 - [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
-- [AAMAS2024: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+- [[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
 
 
 #### Web & App:
