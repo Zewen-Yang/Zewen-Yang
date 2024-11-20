@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher and Full-Stack Developer at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin 
-, and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University.
+I am a Postdoctoral Researcher and Full-Stack Developer at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin, 
+and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University.
 My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, and Data Representation.
 </p>
 
