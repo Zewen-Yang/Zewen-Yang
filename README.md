@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher and Full-Stack Developer at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin, 
+I am a Postdoctoral Researcher and Full-Stack Developer based in Munich, 
 and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University.
 My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Data Representation, and Web Development.
 </p>
@@ -12,15 +12,15 @@ My expertise lies in the fields of Multi-Agent System, Machine Learning, Control
 This account only contains my **Research & Web/App** portfolio:
 
 #### Research Project Code:
-- [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
-- [[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+[Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration); 
+[[AAAI 2025]: AsyncDGP](https://github.com/Xiaobing-Dai/GPgym); 
+[[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+
 
 
 #### Web & App:
-- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-- [xViSion (under development)](https://xvision-orcin.vercel.app/)
-- [Research Mate Recommendation](https://research-mate.onrender.com/)
-- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
+[Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/); [Research Mate Recommendation](https://research-mate.onrender.com/); 
+[Random Clusters](https://zewen-yang.github.io/Random-Clusters/); [xViSion (under development)](https://xvision-orcin.vercel.app/)
 <!-- - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
 - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app) -->
 > 
