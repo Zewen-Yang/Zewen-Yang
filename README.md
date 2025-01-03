@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher and Full-Stack Developer based in Munich, 
+I am a Postdoctoral Researcher and Full-Stack Developer at the Technical University of Munich based in Munich, 
 and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University.
 My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Data Representation, and Web Development.
 </p>
