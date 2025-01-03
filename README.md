@@ -19,8 +19,10 @@ This account only contains my **Research & Web/App** portfolio:
 
 
 #### Web & App:
-[Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/); [Research Mate Recommendation](https://research-mate.onrender.com/); 
-[Random Clusters](https://zewen-yang.github.io/Random-Clusters/); [xViSion (under development)](https://xvision-orcin.vercel.app/)
+[Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/); 
+[Research Mate Recommendation](https://research-mate.onrender.com/); 
+[Random Clusters](https://zewen-yang.github.io/Random-Clusters/); 
+[xViSion (under development)](https://xvision-orcin.vercel.app/)
 <!-- - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
 - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app) -->
 > 
