@@ -13,7 +13,7 @@ This account only contains my **Research & Web/App** portfolio:
 
 #### Research Project Code:
 [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration); 
-[[IEEE/CAA JAS]: EIGP](https://github.com/Zewen-Yang/EIGP)
+[[IEEE/CAA JAS]: EIGP](https://github.com/Zewen-Yang/EIGP);
 [[AAAI 2025]: AsyncDGP](https://github.com/Xiaobing-Dai/GPgym); 
 [[JAAMAS]: Online-Pri-GP](https://github.com/Zewen-Yang/Online-Pri-GP);
 [[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP);
