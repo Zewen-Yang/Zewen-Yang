@@ -4,7 +4,7 @@
 <p>
 I am a Postdoctoral Researcher and Full-Stack Developer at <i>Munich Institute of Robotics and Machine Intelligence, the Technical University of Munich (TUM)</i> based in Munich, 
 and a Ph.D. holder in Control Science & Engineering from <i>TUM and Harbin Engineering University</i>.
-My expertise lies in the fields of <b>Multi-Agent Systems</b>, <b>Machine Learning</b>, <b>Control Theory</b>, <b>Robotics</b>, <b>Data Representation</b>, and <b>Web Development</b>.
+My expertise lies in the fields of <b>Multi-Agent System</b>, <b>Generative Model</b>, <b>Robotics</b>, <b>Bayesian Learning</b>, <b>Control Theory</b>, and <b>Web Development</b>.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
@@ -14,7 +14,7 @@ This account only contains my **Research & Web/App** portfolio:
 #### Research Project Code:
 [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration); 
 [[AAAI 2026]: SkyGP](https://github.com/Zewen-Yang/SkyGP);
-[[IEEE/CAA JAS 2025]: EIGP](https://github.com/Zewen-Yang/EIGP);
+[[IEEE/CAA JAS 2026]: EIGP](https://github.com/Zewen-Yang/EIGP);
 [[AAAI 2025]: AsyncDGP](https://github.com/Xiaobing-Dai/GPgym); 
 [[JAAMAS 2025]: Online-Pri-GP](https://github.com/Zewen-Yang/Online-Pri-GP);
 [[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP);
@@ -26,9 +26,7 @@ This account only contains my **Research & Web/App** portfolio:
 [Research Mate Recommendation](https://research-mate.onrender.com/); 
 [Random Clusters](https://zewen-yang.github.io/Random-Clusters/); 
 [xViSion (under development)](https://xvision-orcin.vercel.app/)
-<!-- - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
-- [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app) -->
-> 
+
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
 
 
