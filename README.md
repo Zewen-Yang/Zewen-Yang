@@ -51,7 +51,7 @@ This account only contains my **Research & Web/App** portfolio:
 <img align="left" alt="Overleaf" width="30px" style="padding-right:10px;" src="./images/overleaf_logo.svg" />
 <img align="left" alt="Colab" width="30px" style="padding-right:10px;" src="./images/colab_logo.svg" />
 <!-- <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
-<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./images/Notion_logo.svg" />
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./images/notion_logo.svg" />
 <img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="./images/Cursor_logo.svg" />
 <img align="left" alt="Codex" width="30px" style="padding-right:10px;" src="./images/Codex_logo.svg" />
 <img align="left" alt="Perplexity" width="30px" style="padding-right:10px;" src="./images/Perplexity_logo.svg" />
